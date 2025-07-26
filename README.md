@@ -1,6 +1,6 @@
 # Daily Python Practice For Data Roles
 
-This repo contains daily Python questions — mainly focused on roles like **Data Analyst** and **Data Scientist**.
+This repo contains daily Python questions mainly focused on roles like **Data Analyst** and **Data Scientist**.
 
 Each day, I add 10 questions (with solutions) that help build logic, improve problem-solving, and get used to questions often asked in interviews or tests.
 
