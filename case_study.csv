@@ -1,0 +1,151 @@
+Order ID,Product,Category,Region,Sales,Quantity,Discount,Profit,Order Date
+1001,Nike Shoes,Apparel,South,19288,2,0,4539.24,5/20/2023
+1002,iPhone,Electronics,West,2452,1,0,352.42,5/10/2023
+1003,Action Figure,Toys,North,57506.75,5,0.15,8286.04,5/31/2023
+1004,Nike Shoes,Apparel,North,78630.1,2,0.15,13213.8,2/9/2023
+1005,Levi's Jeans,Apparel,East,5591.3,1,0.15,667.28,3/30/2023
+1006,Action Figure,Toys,East,41074.55,1,0.15,8512.52,4/7/2023
+1007,iPhone,Electronics,East,263376,5,0.1,56749.74,6/30/2023
+1008,iPhone,Electronics,North,92093.4,2,0.1,27355.82,3/1/2023
+1009,iPhone,Electronics,West,81577.8,3,0.1,10811.57,4/1/2023
+1010,Levi's Jeans,Apparel,East,38399,1,0.05,7941.99,3/4/2023
+1011,Samsung TV,Electronics,West,69125.8,4,0.05,16377.48,1/15/2023
+1012,Levi's Jeans,Apparel,North,72333,3,0.1,8190.82,5/26/2023
+1013,Office Chair,Furniture,South,89855.2,4,0.15,11553.07,2/5/2023
+1014,Levi's Jeans,Apparel,East,121452.25,5,0.15,20938.28,2/5/2023
+1015,Chocolate Box,Food,West,50030,1,0,13619.2,2/9/2023
+1016,Lego Set,Toys,South,158344,4,0,28019.52,6/2/2023
+1017,Biscuits Pack,Food,East,284560,5,0,67172.29,1/30/2023
+1018,Lego Set,Toys,East,21087,3,0.1,3942.28,4/27/2023
+1019,HP Laptop,Electronics,East,239566.25,5,0.05,48281.3,1/28/2023
+1020,Lego Set,Toys,East,191942.75,5,0.05,25061.55,2/11/2023
+1021,Chocolate Box,Food,North,92407.75,5,0.15,9600.74,4/3/2023
+1022,Nike Shoes,Apparel,South,16285,1,0,1907.47,5/5/2023
+1023,iPhone,Electronics,South,74352.9,2,0.15,21515.48,2/12/2023
+1024,Nike Shoes,Apparel,West,68101.7,2,0.05,16520.78,4/13/2023
+1025,Lego Set,Toys,East,202153.8,4,0.15,25107.67,2/27/2023
+1026,iPhone,Electronics,East,37102.25,1,0.05,8076.72,1/2/2023
+1027,iPhone,Electronics,North,9834,2,0,2674.13,1/19/2023
+1028,Chocolate Box,Food,South,113072.1,3,0.15,16152.05,2/3/2023
+1029,Action Figure,Toys,West,88264,2,0.15,23080.98,2/18/2023
+1030,iPhone,Electronics,North,80644.6,4,0.15,14695.1,1/14/2023
+1031,Lego Set,Toys,North,24197.4,1,0.1,6294.19,1/28/2023
+1032,Levi's Jeans,Apparel,South,60598.2,2,0.15,7758.78,2/16/2023
+1033,Nike Shoes,Apparel,West,115620,2,0,21808.96,5/21/2023
+1034,iPhone,Electronics,North,276445,5,0,81219.33,3/2/2023
+1035,Samsung TV,Electronics,West,121774.8,4,0.05,33236.01,1/16/2023
+1036,Samsung TV,Electronics,West,23477.4,1,0.1,6698.19,4/27/2023
+1037,Nike Shoes,Apparel,West,186473,5,0.15,24420.39,3/17/2023
+1038,Levi's Jeans,Apparel,North,243585,5,0,60797.63,1/15/2023
+1039,HP Laptop,Electronics,West,267819.25,5,0.05,29828.61,5/11/2023
+1040,iPhone,Electronics,South,39496,1,0,9283.24,3/2/2023
+1041,Dining Table,Furniture,North,83175,5,0,18620.91,4/18/2023
+1042,Lego Set,Toys,East,37492.2,3,0.1,5538.99,4/12/2023
+1043,Samsung TV,Electronics,East,84880,4,0,8646.14,6/9/2023
+1044,Action Figure,Toys,North,33947.3,1,0.05,6829.41,2/3/2023
+1045,Office Chair,Furniture,North,44490.6,2,0.1,5852.71,5/20/2023
+1046,Nike Shoes,Apparel,North,100600,5,0,28951.27,2/4/2023
+1047,Nike Shoes,Apparel,North,46697.25,1,0.05,7213.31,6/4/2023
+1048,Levi's Jeans,Apparel,East,81999,2,0.1,16488.51,3/6/2023
+1049,HP Laptop,Electronics,North,197467.2,4,0.1,21487.86,3/27/2023
+1050,Samsung TV,Electronics,East,83430.9,2,0.15,17548.53,4/20/2023
+1051,Chocolate Box,Food,North,5159.45,1,0.05,1078.93,4/5/2023
+1052,Action Figure,Toys,South,35408,4,0,5723.76,1/11/2023
+1053,Office Chair,Furniture,South,88416,2,0,15095.77,5/24/2023
+1054,Dining Table,Furniture,South,108607.8,2,0.05,32065.5,2/15/2023
+1055,Dining Table,Furniture,North,87787.8,2,0.1,22515.58,4/16/2023
+1056,Lego Set,Toys,South,32799,3,0,5789.3,1/10/2023
+1057,Biscuits Pack,Food,South,91825.5,2,0.15,15604.06,2/28/2023
+1058,Levi's Jeans,Apparel,North,47903.4,2,0.1,7459.55,1/18/2023
+1059,Nike Shoes,Apparel,East,120118.5,5,0.1,34575.8,1/30/2023
+1060,Nike Shoes,Apparel,South,89485,5,0,10888.58,4/22/2023
+1061,Office Chair,Furniture,East,160912,4,0,28487.71,5/28/2023
+1062,Levi's Jeans,Apparel,East,39907.5,1,0.15,4004.25,5/18/2023
+1063,Lego Set,Toys,South,86295,3,0,25006.12,3/26/2023
+1064,Action Figure,Toys,East,42902.1,1,0.1,8641.53,6/20/2023
+1065,Dining Table,Furniture,East,166291.2,4,0.1,35067.9,2/19/2023
+1066,Dining Table,Furniture,West,73508.4,2,0.1,13320.83,1/1/2023
+1067,Nike Shoes,Apparel,East,51611.4,2,0.1,9960.88,4/24/2023
+1068,Lego Set,Toys,South,149672.5,5,0.05,34689.62,3/14/2023
+1069,Chocolate Box,Food,East,51429.2,1,0.05,12063.19,2/27/2023
+1070,Levi's Jeans,Apparel,South,3351.6,1,0.05,994.71,6/6/2023
+1071,iPhone,Electronics,West,222577.4,4,0.05,54235.25,4/9/2023
+1072,Biscuits Pack,Food,West,20342,2,0,5665.9,1/28/2023
+1073,Dining Table,Furniture,South,90436.6,2,0.15,9951.98,3/5/2023
+1074,iPhone,Electronics,West,90135.7,2,0.15,21048.09,5/24/2023
+1075,Action Figure,Toys,East,138210,4,0.15,36779.59,5/21/2023
+1076,Biscuits Pack,Food,South,107982,4,0.1,27033.87,6/13/2023
+1077,Nike Shoes,Apparel,West,31443.2,2,0.15,3631.58,3/15/2023
+1078,Levi's Jeans,Apparel,East,64356,3,0,8216.64,3/1/2023
+1079,Dining Table,Furniture,South,8005.3,2,0.15,1453.12,5/19/2023
+1080,Biscuits Pack,Food,West,11946.75,1,0.15,2125.27,5/30/2023
+1081,HP Laptop,Electronics,West,3189.6,4,0.1,509.45,4/10/2023
+1082,Dining Table,Furniture,South,53568,4,0.1,10026.17,1/8/2023
+1083,Dining Table,Furniture,East,182244.2,4,0.05,48859.88,2/2/2023
+1084,Action Figure,Toys,North,157160,4,0,18354.64,4/20/2023
+1085,Samsung TV,Electronics,West,6831,2,0.1,1201.03,2/24/2023
+1086,Biscuits Pack,Food,East,128486.85,3,0.15,19999.15,4/18/2023
+1087,Nike Shoes,Apparel,North,7080,4,0,2123.87,3/31/2023
+1088,Levi's Jeans,Apparel,North,49929,1,0,14475.53,2/21/2023
+1089,HP Laptop,Electronics,South,14912.4,2,0.15,3487.89,5/25/2023
+1090,Levi's Jeans,Apparel,West,137049.3,3,0.1,18304.01,6/5/2023
+1091,iPhone,Electronics,South,22752,3,0,6502.01,5/28/2023
+1092,Lego Set,Toys,West,179964.2,4,0.05,20731.75,6/26/2023
+1093,Lego Set,Toys,South,41571.9,1,0.1,11226.85,6/3/2023
+1094,iPhone,Electronics,North,90303.15,3,0.15,20977.81,1/18/2023
+1095,Chocolate Box,Food,East,47750.45,1,0.15,12628.38,1/28/2023
+1096,Dining Table,Furniture,East,178045.2,4,0.05,33311.8,5/14/2023
+1097,Lego Set,Toys,East,227230.5,5,0.15,43849.75,6/1/2023
+1098,Nike Shoes,Apparel,East,109884,2,0,17118.35,4/26/2023
+1099,Levi's Jeans,Apparel,West,172116.5,5,0.15,28791.53,5/7/2023
+1100,Office Chair,Furniture,South,51843.6,4,0.1,13456.86,3/29/2023
+1101,Nike Shoes,Apparel,East,5533.75,5,0.05,648.13,4/15/2023
+1102,Biscuits Pack,Food,South,145618.6,4,0.15,27614.37,1/5/2023
+1103,iPhone,Electronics,East,51303.8,2,0.05,8272.29,5/29/2023
+1104,Office Chair,Furniture,West,158823,5,0.1,29398.26,5/21/2023
+1105,Office Chair,Furniture,East,65714.4,4,0.1,9875.61,1/31/2023
+1106,Levi's Jeans,Apparel,East,46725.75,1,0.05,6462.55,5/4/2023
+1107,Nike Shoes,Apparel,East,52313.65,1,0.05,8330.91,4/3/2023
+1108,Samsung TV,Electronics,East,44555,1,0.05,6899.89,1/14/2023
+1109,Chocolate Box,Food,East,71915.1,2,0.15,8667.03,1/4/2023
+1110,Action Figure,Toys,East,108368.2,4,0.15,18221.16,1/14/2023
+1111,Nike Shoes,Apparel,West,54378,1,0,9795.73,1/19/2023
+1112,Action Figure,Toys,North,18498.6,2,0.1,2165.01,3/5/2023
+1113,iPhone,Electronics,West,187943.25,5,0.05,47951.6,4/8/2023
+1114,Biscuits Pack,Food,West,145021.05,3,0.15,23359.42,6/8/2023
+1115,HP Laptop,Electronics,North,78836.7,2,0.05,12056.44,1/21/2023
+1116,Samsung TV,Electronics,South,73350,2,0,9631.33,4/15/2023
+1117,Biscuits Pack,Food,West,7521.15,3,0.05,1185.49,3/14/2023
+1118,Biscuits Pack,Food,North,33890.3,2,0.05,6270.65,5/20/2023
+1119,Levi's Jeans,Apparel,South,155820.9,3,0.05,17807.52,2/12/2023
+1120,Nike Shoes,Apparel,East,29406.6,4,0.15,6991,6/29/2023
+1121,Dining Table,Furniture,East,152524,5,0.15,28606.15,6/3/2023
+1122,HP Laptop,Electronics,West,108172.8,3,0.1,11376.86,2/28/2023
+1123,Lego Set,Toys,North,114792,3,0,28998.96,2/14/2023
+1124,Biscuits Pack,Food,West,31604.7,3,0.15,7172.91,5/6/2023
+1125,iPhone,Electronics,West,73604.7,3,0.1,12086.75,1/27/2023
+1126,Samsung TV,Electronics,East,156264,4,0.15,24634.01,4/13/2023
+1127,Chocolate Box,Food,North,22575.6,4,0.1,3397.17,1/30/2023
+1128,Dining Table,Furniture,North,130798,5,0.15,14497.76,5/13/2023
+1129,Office Chair,Furniture,West,201224,4,0,28314.56,5/21/2023
+1130,Samsung TV,Electronics,East,197971.8,4,0.15,24604.97,6/11/2023
+1131,Action Figure,Toys,South,41730,2,0,8782.09,1/24/2023
+1132,Levi's Jeans,Apparel,North,31152.4,4,0.05,6220.36,3/16/2023
+1133,Chocolate Box,Food,East,187693.6,4,0.15,55566.49,3/4/2023
+1134,Biscuits Pack,Food,South,49365.8,4,0.05,13467.26,3/12/2023
+1135,Dining Table,Furniture,East,90045,5,0,14098.15,3/18/2023
+1136,Action Figure,Toys,West,50598.8,2,0.15,8552.45,5/22/2023
+1137,Chocolate Box,Food,West,82034.4,4,0.05,24294.89,3/3/2023
+1138,Action Figure,Toys,West,96218.3,2,0.15,10461.76,5/2/2023
+1139,Dining Table,Furniture,West,65922,2,0,8256.68,6/1/2023
+1140,Office Chair,Furniture,North,23915.6,4,0.15,2464.97,2/6/2023
+1141,Dining Table,Furniture,South,28141.2,1,0.1,4719.62,6/27/2023
+1142,Dining Table,Furniture,North,143715.45,3,0.15,41796.47,6/10/2023
+1143,Biscuits Pack,Food,North,23674,5,0.05,5355.82,3/15/2023
+1144,Levi's Jeans,Apparel,North,27804,4,0,5247.61,6/27/2023
+1145,Nike Shoes,Apparel,North,21758,1,0,3452.42,4/6/2023
+1146,Dining Table,Furniture,South,60027,2,0.15,12796.89,2/16/2023
+1147,Samsung TV,Electronics,South,34376.55,1,0.15,7698.36,3/3/2023
+1148,Biscuits Pack,Food,South,55297.8,2,0.1,10612.43,6/20/2023
+1149,HP Laptop,Electronics,West,127984.95,3,0.05,14689.14,3/30/2023
+1150,Action Figure,Toys,East,164664,4,0.1,31511.28,3/19/2023
